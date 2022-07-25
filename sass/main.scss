@@ -2,5 +2,12 @@
 @import './utils/variables';
 @import './utils/visually-hidden';
 @import './utils/reset';
-@import './utils/setting-body';
-@import './utils/setting-conteiner';
+@import './utils/basic-styles';
+@import './components/page-header';
+@import './components/logo';
+@import './components/nav';
+@import './components/contact';
+@import './components/_section-herro';
+@import './components/aside';
+@import './components/about';
+@import './components/workers';

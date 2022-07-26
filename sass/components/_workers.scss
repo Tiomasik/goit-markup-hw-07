@@ -55,10 +55,6 @@
         }
     }
 
-    &__network {
-        fill: currentColor;
-    }
-
     &__subtitle {
         margin-bottom: 10px;
 
@@ -76,4 +72,8 @@
         line-height: 1.19;
         }
 
+}
+
+.networks {
+    fill: currentColor;
 }

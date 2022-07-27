@@ -233,11 +233,12 @@
 
     &:checked + .checkbox-icon {
         background-color: $backgroundbutton-color;
-        background-image: url(../../images/check.svg);
+        background-image: url(../../images/check-2.svg);
         background-size: contain;
         background-repeat: no-repeat;
     
         border-color: $backgroundbutton-color;
+        background-origin: border-box;
         }
 }
 

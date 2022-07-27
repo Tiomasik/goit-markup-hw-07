@@ -201,10 +201,6 @@
         font-size: 14px;
         line-height: calc(24 / 14);
     }
-
-    &__span {
-        margin-left: 8px
-    }
     
     &__link {
         margin-left: 5px;
@@ -212,10 +208,14 @@
         font-weight: 400;
         font-size: 14px;
         line-height: 24px;
-
-        text-decoration: underline;
     
         color: $backgroundbutton-color;
+
+        text-decoration: underline;
+    }
+
+    &__span {
+        margin-left: 8px
     }
 }
 

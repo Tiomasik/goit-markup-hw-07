@@ -212,9 +212,20 @@
         font-weight: 400;
         font-size: 14px;
         line-height: 24px;
+
+        text-decoration: underline;
     
         color: $backgroundbutton-color;
     }
+}
+
+.checkbox-icon {
+    display: inline-block;
+    width: 16px;
+    height: 15px;
+
+    border: 2px solid #2F303A;
+    border-radius: 2px;
 }
 
 .checkbox {
@@ -230,14 +241,6 @@
         }
 }
 
-.checkbox-icon {
-    display: inline-block;
-    width: 16px;
-    height: 15px;
-
-    border: 2px solid #2F303A;
-    border-radius: 2px;
-}
 
 .dates-btn {
     display: block;

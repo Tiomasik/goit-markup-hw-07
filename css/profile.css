@@ -1049,7 +1049,7 @@ body {
 }
 .checkbox:checked + .checkbox-icon {
   background-color: #2196F3;
-  background-image: url(https://monosnap.com/file/P6kF1IZAKWF1XbQxuJHiD16J9CN3J4);
+  background-image: url(../images/check-2.svg);
   background-size: contain;
   background-repeat: no-repeat;
   border-color: #2196F3;
